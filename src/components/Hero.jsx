@@ -355,8 +355,9 @@ const Hero = () => {
             variants={itemVariants}
             className="mt-6 text-sm md:text-xl text-gray-200 max-w-lg md:max-w-2xl mx-auto font-light leading-relaxed"
           >
-            Optimize lifestyle. Improve sperm health. Measure real cellular
-            performance through advanced microscopic analysis.
+            A sperm racing performance platform that turns lifestyle into results.  
+  Improve speed, motility, and vitality — then compete under the microscope.
+
           </motion.p>
 
           {/* Buttons */}
