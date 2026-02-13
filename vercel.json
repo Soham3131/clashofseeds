@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "clashofseeds.in"
+        }
+      ],
+      "destination": "https://clashofseeds.com/$1",
+      "permanent": true
+    }
+  ]
+}
